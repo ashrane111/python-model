@@ -1,7 +1,6 @@
 certifi==2020.12.5
 click==7.1.2
-Flask==1.1.2
-Flask-Cors==3.0.9
+streamlit==0.88.0
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
